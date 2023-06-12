@@ -1,2 +1,3 @@
-# job-search
-Busqueda de trabajo en job.github.com desde terminal con Java
+# JobSearch
+Job search app with Github API
+

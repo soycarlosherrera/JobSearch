@@ -109,20 +109,6 @@ public class JobPosition {
         this.companyLogo = companyLogo;
     }
 
-}
-
-
-
-
-
-/*
-
-
-public class JobPosition {
-
-
-
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -160,6 +146,5 @@ public class JobPosition {
                 ", companyLogo='" + companyLogo + '\'' +
                 '}';
     }
-}
 
-*/
+}
